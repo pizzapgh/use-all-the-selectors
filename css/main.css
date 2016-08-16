@@ -1,5 +1,5 @@
 body{
-  background: #fdf6e3;
+  background-color: #fdf6e3;
 }
 header, footer{
   font-size:1.5rem;
@@ -20,13 +20,13 @@ nav ul{
   color: #93a1a1;
 }
 main > .dfn{
-  color:#fff;
+  background-color: #b58900;
 }
 .dfn + p + strong{
   color:#fff;
 }
 mark{
-  color:#719e07;
+  background-color:#719e07;
 }
 a[rel="external"]{
   background-color: #2694d8;
@@ -47,5 +47,5 @@ ol li:last-child{
   background-color:#d04b16;
 }
 .dfn p + strong{
-  color:red;
+  color:#fff;
 }
